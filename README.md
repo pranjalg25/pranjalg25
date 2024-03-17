@@ -55,7 +55,7 @@ technical_background:
 
   ]
   
-hobbies: ["Gaming", "F1", "Football","Reading"]
+hobbies: ["Gaming","Football","Reading","Chess"]
 ```
   
 --- 
