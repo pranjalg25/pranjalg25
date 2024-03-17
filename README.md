@@ -1,20 +1,25 @@
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 <h1 align="center">
-  Let's Connect!💬
+Let's Connect!💬
 </h1>
 
-<p align="center">
+<p align="center" >
 
 <a href="https://www.linkedin.com/in/pranjal-gupta-83b65921a/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 
 <a href="https://www.instagram.com/pranjalpg.gupta/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" />
 </a>
 </p>
+
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="1000" height="800" >
+
 
 ---
 
