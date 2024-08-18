@@ -28,7 +28,7 @@ Let's Connect!💬
 ```yaml
 name: Pranjal Gupta
 located_in: Noida, India
-current_job: Pre-Final Year CSE Student at VIT, Vellore
+current_job: Final Year CSE Student at VIT, Vellore
 education:
   [
     "Self-Taught Google Certified Data Analyst",
